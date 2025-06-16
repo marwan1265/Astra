@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **Secretary Agent** is a personal assistant designed for a single user, accessible via **Telegram**. It's built with **LangGraph** (from LangChain) and powered by **Google's Gemini 2.5 Pro** to understand and process your requests (though any LLM with agentic capabilites can be used in it's place with some modification). The agent can connect to your **Google Calendar** to help you manage your schedule, all through a simple and conversational interface.
+The **Secretary Agent** is a personal assistant designed for a single user, accessible via **Telegram**. It's built with **LangGraph** and powered by **Google's Gemini 2.5 Pro** to understand and process your requests (though any LLM with agentic capabilites can be used in it's place with some modification). The agent can connect to your **Google Calendar** to help you manage your schedule, all through a simple and conversational interface.
 
 This project is designed to be a stateful, single-user assistant that remembers your conversation history for a more natural interaction. It's an excellent foundation for building a more comprehensive personal AI secretary.
 
